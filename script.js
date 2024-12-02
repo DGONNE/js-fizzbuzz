@@ -5,6 +5,6 @@ multipli di 3 --> Fizz
 multipli 5 ----> Buzz
 multipli di entrambi ---->FizzBuzz */
 
-for (const x = 1; x <= 100; x++) {
-    
+for (let x = 1; x <= 100; x++) {
+
 }
