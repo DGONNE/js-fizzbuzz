@@ -15,5 +15,7 @@ for (let x = 1; x <= 100; x++) {
    else if(x % 5 ===0) {
     console.log("Buzz")
    }
-   else (x)
+   else {
+    console.log(x)
+   }
 }
